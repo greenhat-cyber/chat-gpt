@@ -1,0 +1,18 @@
+{
+  "name": "chat-gpt-server",
+  "version": "1.0.0",
+  "description": "new chat gpt",
+  "main": "index.js",
+  "scripts": {
+    "run server": "/index.js"
+  },
+  "author": "vishal vijayan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "openai": "^3.1.0"
+  }
+}
